@@ -1,0 +1,1 @@
+g0e = getTransform(robot, q_full, 'panda_hand');
